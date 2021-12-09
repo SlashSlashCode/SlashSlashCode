@@ -7,6 +7,8 @@
  I work with Unity and C# to create small games and explore fun concepts.
  
  I am also learning Java to expand my knowledge of general computer science.
+ 
+ Although I'm not very good at it, I have also started making websites for fun!
 
  
  
